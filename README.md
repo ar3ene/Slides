@@ -1,2 +1,2 @@
 # SlidesTemplate
-A template slides for presentation
+A beamer template for presentation slides.
