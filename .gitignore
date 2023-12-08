@@ -1,8 +1,8 @@
-.aux
-.log
-.nav
-.out
-.snm
+*.aux
+*.log
+*.nav
+*.out
+*.snm
 main.synctex.gz
-.toc
-.pdf
+*.toc
+*.pdf
